@@ -15,6 +15,7 @@
 		8437CAF824C869CD0070FDA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8437CAF624C869CD0070FDA1 /* LaunchScreen.storyboard */; };
 		8437CB0324C869CD0070FDA1 /* Shopping_ListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8437CB0224C869CD0070FDA1 /* Shopping_ListTests.swift */; };
 		8437CB0E24C869CE0070FDA1 /* Shopping_ListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8437CB0D24C869CE0070FDA1 /* Shopping_ListUITests.swift */; };
+		8437CB1C24C8960F0070FDA1 /* newItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8437CB1B24C8960F0070FDA1 /* newItemViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8437CB0924C869CD0070FDA1 /* Shopping ListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Shopping ListUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8437CB0D24C869CE0070FDA1 /* Shopping_ListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shopping_ListUITests.swift; sourceTree = "<group>"; };
 		8437CB0F24C869CE0070FDA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8437CB1B24C8960F0070FDA1 /* newItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newItemViewController.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8437CAED24C869C70070FDA1 /* SceneDelegate.swift */,
 				8437CAEF24C869C70070FDA1 /* ViewController.swift */,
 				8437CAF124C869C70070FDA1 /* Main.storyboard */,
+				8437CB1B24C8960F0070FDA1 /* newItemViewController.swift */,
 				8437CAF424C869CD0070FDA1 /* Assets.xcassets */,
 				8437CAF624C869CD0070FDA1 /* LaunchScreen.storyboard */,
 				8437CAF924C869CD0070FDA1 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				8437CAF024C869C70070FDA1 /* ViewController.swift in Sources */,
 				8437CAEC24C869C70070FDA1 /* AppDelegate.swift in Sources */,
+				8437CB1C24C8960F0070FDA1 /* newItemViewController.swift in Sources */,
 				8437CAEE24C869C70070FDA1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
